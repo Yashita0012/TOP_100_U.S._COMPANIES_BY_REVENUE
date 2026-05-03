@@ -31,15 +31,6 @@ The goal is to simulate a **real-world Business Intelligence use case** using da
 - Built an interactive dashboard to extract insights
 
 
-## 📈 Key KPIs
-- Total Revenue  
-- Average Revenue Growth  
-- Total Employees  
-- Revenue per Employee (Efficiency)  
-- Total Number of Companies  
-
-
-
 ## 🔍 Key Insights
 
 ### 1. Revenue Leadership
@@ -54,31 +45,25 @@ The goal is to simulate a **real-world Business Intelligence use case** using da
 
 
 
-### 3. Workforce Efficiency
-- Apple generates high revenue with fewer employees  
-- Indicates strong scalability in tech companies  
-
-
-
-### 4. Labor-Intensive Models
+### 3. Labor-Intensive Models
 - Walmart operates with a massive workforce  
 - Retail sector shows lower revenue per employee  
 
 
 
-### 5. Industry Growth Trends
+### 4. Industry Growth Trends
 - Technology and Insurance sectors show strong growth  
 - Petroleum sector shows low or negative growth  
 
 
 
-### 6. Negative Growth Analysis
+### 5. Negative Growth Analysis
 - Boeing and Valero Energy show declining growth  
 - Indicates slowdown in energy and manufacturing sectors  
 
 
 
-### 7. Geographic Concentration
+### 6. Geographic Concentration
 - Most headquarters are located in:
   - California  
   - Texas  
