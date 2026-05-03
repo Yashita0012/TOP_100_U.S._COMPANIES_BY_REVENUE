@@ -4,7 +4,6 @@
 This project analyzes the **Top 100 US companies by revenue (2026)** to uncover insights related to:
 - Industry performance  
 - Company growth  
-- Workforce efficiency  
 - Geographic concentration  
 
 The goal is to simulate a **real-world Business Intelligence use case** using data scraping, cleaning, and visualization.
